@@ -46,6 +46,9 @@ st.markdown("""
     border-radius: 12px;
     padding: 1rem;
 }
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
