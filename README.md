@@ -1,10 +1,11 @@
 # MinePattern v1.0.0 - Minecraft Texture Generator
 
 ## 🎨 Overview
-Professional pixel-perfect texture studio for Minecraft. Desktop/mobile compatible, PWA-ready.
+MinePattern is a pixel-perfect texture generator for Minecraft. Desktop/mobile compatible, PWA-ready.
 
 ## 🚀 Local Run
 ```
+git clone https://github.com/pointnod/MinePattern-v1.0.0.git
 cd MinePattern-v1.0.0
 streamlit run app_pro.py
 ```

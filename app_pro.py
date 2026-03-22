@@ -24,7 +24,10 @@ st.markdown("""
 <style>
 .main .block-container {
     padding-top: 1rem;
-    max-width: 1200px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    max-width: 100%;
 }
 .stButton > button {
     border-radius: 12px;
